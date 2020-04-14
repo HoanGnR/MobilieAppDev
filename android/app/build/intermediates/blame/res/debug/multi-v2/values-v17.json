@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/hoan/Project/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+            "outputFile": "/home/hoan/MobileAppDevelopement/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/home/hoan/.gradle/caches/transforms-2/files-2.1/5614847909e7fee021de92c7e3b6ab27/res/values-v17/values-v17.xml",
+                    "source": "/home/hoan/.gradle/caches/transforms-2/files-2.1/49a9c8e0bb1c0e8b8bb828ecd2d38737/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
