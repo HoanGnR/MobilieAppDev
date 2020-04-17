@@ -103,7 +103,7 @@ export const dataNoticeBoard = [
             },
         ]
     },
-    
+
 ]
 export const dataTips = [
     {
@@ -141,5 +141,45 @@ export const dataTips = [
             },
         ]
     },
-    
+
 ]
+export const dataSearchScreen = {
+    typeName: ['Làn,vạch kẻ đường','Biển báo, đèn tín hiệu','Tốc độ, Khoảng cách','Dừng, đỗ','Chuyền hướng, nhường đường','Nồng độ cồn, ma túy','Khác'],
+    data :
+[
+  // motorbike
+    {
+        id : 0,
+        iconName : 'motorbike',
+        listItem:
+        [
+          {
+            type : 0,
+            name : 'Điều khiển xe đi không đúng chiều, phần đường, làn đường',
+            fee  : '300.000 - 400.000 vnđ'
+          },
+          {
+            type : 3,
+            name : 'Dừng,đỗ xe trong hầm đường bộ sai quy định',
+            fee  : '500.000 - 1.000.000 vnđ'
+          }
+        ]
+    },
+    // car
+    {
+      id:1,
+      iconName : 'car',
+      listItem: [
+        {
+          type : 0,
+          name : 'Điều khiển xe đi không đúng chiều, phần đường, làn đường',
+          fee  : '300.000 - 400.000 vnđ'
+        },
+        {
+          type : 3,
+          name : 'Dừng,đỗ xe trong hầm đường bộ sai quy định',
+	        fee  : '500.000 - 1.000.000 vnđ'
+        }]
+    }
+]
+}

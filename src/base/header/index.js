@@ -24,6 +24,9 @@ export default class Header extends React.Component {
             case 'Tips':
                 return 'Mẹo thi đạt kết quả cao'
                 break;
+	    case 'SearchScreen':
+		return 'Tra cứu luật nhanh'
+		break;
         }
     }
     handleChooseLeft = () => {

@@ -19,7 +19,7 @@ const Stack = createStackNavigator({
     LearnDetailsScreen: { screen: LearnDetailsScreen},
     ListBoard: {screen: ListBoard },
     Tips: {screen: Tips },
-    SearchScreen: {screen: SearchScreen}
+    SearchScreen: {screen: SearchScreen},
 },
 {
     headerMode: 'none'
